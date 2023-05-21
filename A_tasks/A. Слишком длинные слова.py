@@ -1,6 +1,6 @@
 import sys
 
-n = int(sys.stdin.readline().split()[0]) # ввод
+n = int(sys.stdin.readline().split()[0]) # ввод числа
 
 words = [] # создаем пустой список, где будут храниться слова
 
